@@ -41,7 +41,7 @@ if __name__ == '__main__':
     main.start()
 ```
 
-## Guias
+## Guides
 - Tkinter: Tkinter: Documentation - *There are several other guides on display at the top of the page*
 - Git e Github: [Tutorial no Tableless](https://tableless.com.br/tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/) - *Reading*
 - Git e Github: [Tutorial no Youtube](https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1) - *Video Class*
